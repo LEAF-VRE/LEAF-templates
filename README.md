@@ -1,2 +1,2 @@
 # LEAF-templates
-Template and sample files for the LEAF-Writer application
+Template and sample files for LEAF-Writer and NERVE applications
